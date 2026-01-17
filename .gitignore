@@ -1,0 +1,3 @@
+write gitinore file for python project
+# Byte-compiled / optimized / DLL files
+__pycache__/

@@ -2,6 +2,8 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 #adding random comment to push it again 
+
+#New comment, same job, testing webhook handler nothing else
 def generate_district_comparison(indore_path, dindori_path):
     """
     Generates high-contrast visualizations to compare Urban vs. Rural performance
